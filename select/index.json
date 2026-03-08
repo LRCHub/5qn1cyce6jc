@@ -1,0 +1,128 @@
+{
+  "version": 1,
+  "base_track": "Working For The Weekend",
+  "base_artist": "MAX",
+  "createdAt": "2026-03-08T16:15:58.647862Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Working for the Weekend",
+      "artist": "Loverboy",
+      "has_synced": true,
+      "path": "select/01_Working_for_the_Weekend_Loverboy.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Working for the Weekend",
+      "artist": "Loverboy",
+      "has_synced": true,
+      "path": "select/02_Working_for_the_Weekend_Loverboy.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Working for the Weekend",
+      "artist": "Loverboy",
+      "has_synced": true,
+      "path": "select/03_Working_for_the_Weekend_Loverboy.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Working For The Weekend",
+      "artist": "Toque",
+      "has_synced": true,
+      "path": "select/04_Working_For_The_Weekend_Toque.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Working For The Weekend",
+      "artist": "Loverboy",
+      "has_synced": true,
+      "path": "select/05_Working_For_The_Weekend_Loverboy.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Working for the Weekend",
+      "artist": "Loverboy",
+      "has_synced": true,
+      "path": "select/06_Working_for_the_Weekend_Loverboy.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Working for the Weekend",
+      "artist": "Loverboy",
+      "has_synced": true,
+      "path": "select/07_Working_for_the_Weekend_Loverboy.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Working for the Weekend",
+      "artist": "MAX",
+      "has_synced": true,
+      "path": "select/08_Working_for_the_Weekend_MAX.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Working for the Weekend",
+      "artist": "Loverboy",
+      "has_synced": true,
+      "path": "select/09_Working_for_the_Weekend_Loverboy.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Working For The Weekend",
+      "artist": "Loverboy",
+      "has_synced": true,
+      "path": "select/10_Working_For_The_Weekend_Loverboy.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Working for the Weekend",
+      "artist": "Loverboy",
+      "has_synced": true,
+      "path": "select/11_Working_for_the_Weekend_Loverboy.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Working for the Weekend",
+      "artist": "Loverboy",
+      "has_synced": true,
+      "path": "select/12_Working_for_the_Weekend_Loverboy.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Working For The Weekend",
+      "artist": "Loverboy",
+      "has_synced": true,
+      "path": "select/13_Working_For_The_Weekend_Loverboy.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Working For The Weekend",
+      "artist": "Loverboy",
+      "has_synced": true,
+      "path": "select/14_Working_For_The_Weekend_Loverboy.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Working For The Weekend (feat. bbno$)",
+      "artist": "MAX",
+      "has_synced": false,
+      "path": "select/pl_01_Working_For_The_Weekend_(feat._bbno$)_MAX.txt"
+    }
+  ]
+}
